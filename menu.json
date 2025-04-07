@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Гавайска",
+    "costPrice": 90,
+    "preparationTime": 6,
+    "sellingPrice": 160,
+    "availableQuantity": 0,
+    "soldQuantity": 0
+  },
+  {
+    "name": "Маргарита",
+    "costPrice": 40,
+    "preparationTime": 3,
+    "sellingPrice": 80,
+    "availableQuantity": 0,
+    "soldQuantity": 0
+  },
+  {
+    "name": "Пепперони",
+    "costPrice": 60,
+    "preparationTime": 5,
+    "sellingPrice": 120,
+    "availableQuantity": 0,
+    "soldQuantity": 0
+  }
+]
